@@ -12,4 +12,4 @@ Libraries Used: leaf map to create the interactive slider.
 
 Platform: Google Colab for coding and execution
 
-You can access the source codes here:
+You can access the source codes here:https://github.com/foriinji/Tech-Istanbul-AI-Specialist-Bootcamp/tree/main/session-6.3
